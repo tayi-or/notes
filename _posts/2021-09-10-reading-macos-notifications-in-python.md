@@ -5,6 +5,7 @@ category:
     - sqlite
     - python
     - notifications
+title: Reading macOS Notifications in Python
 ---
 
 Python code snippet for reading notifications in Python3. Works on Big Sur.
