@@ -1,3 +1,8 @@
+---
+layout: post
+category: meta
+---
+
 Python code snippet for reading notifications in Python3. Works on Big Sur.
 ```py
 # Read macOS Notifications
