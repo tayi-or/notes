@@ -1,6 +1,10 @@
 ---
 layout: post
-category: meta
+category: 
+    - macOS
+    - sqlite
+    - python
+    - notifications
 ---
 
 Python code snippet for reading notifications in Python3. Works on Big Sur.
