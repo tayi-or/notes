@@ -4,6 +4,7 @@ category:
     - discord
     - ipc
     - protocol
+title: Discord RPC Protocol Documentation
 ---
 
 This is an unofficial documentation on the Discord IPC format. It was made byadding numerous console.log statements to the NPM module discord-rpc.
