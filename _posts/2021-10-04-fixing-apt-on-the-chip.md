@@ -53,4 +53,5 @@ APT:Get::AllowUnauthenticated true;
 :warning: This will disable security measures to validate the integrity of the software installed on the device. If you trust that Debian isn't gonna get hacked, and that you only connect to trusted WiFi, this shouldn't be an issue though.
 
 5. With any luck, `sudo apt update` should now work 🎉
-  * Follow the upgrade instructions [here](https://www.reddit.com/r/ChipCommunity/comments/htkasm/chip_flashing_guide_july_2020/) if you want a newer version of Debian.
+6. `sudo apt upgrade` to update all the installed packages to the latest versions.
+   * This will take **a while**.
