@@ -96,8 +96,8 @@ code {
 
 div.highlighter-rouge code {
 	display: block;
-	overflow-x: auto;
-	white-space: pre-wrap;
+	overflow-x: scroll;
+	white-space: revert;
 	padding: 1rem
 }
 
