@@ -22,6 +22,7 @@ Yes, there are visual clients that do this, however, they’re not perfect. If y
 This guide takes the nuclear approach of creating multiple operating system users for each identity, and using GitHub Desktop to manage said identities.
 ## Why GitHub Desktop?
 - it’s easy
+
 You could use any other Git client, however, I like GitHub Desktop for it’s simplicity and it works fine.
 ## Actually doing the thing.
 This guide will show you how to do it on macOS, however the steps should be similar for Linux, and the concepts should be similar for Windows (i.e. using `PsExec` or similar to exec as another user instead of `su`.
