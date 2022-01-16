@@ -18,6 +18,7 @@ There are other reasons why you might want 2 (or more) separate identities on Gi
 Yes, there are visual clients that do this, however, they’re not perfect. If you use those clients, and it works for you, that’s great. But mainly:
  -  **Tower**’s UI is confusing to my dumb brain, and iirc only one account per service
  - **GitKraken**’s multi account feature is paid exclusive, which is great because I have the GitHub Education Pack, but not so great when you realise you can only use this when your subscription is on a Axosoft account, and you cannot unlink a GitHub account from an identity if that account is what your paid account is registered under.
+
 This guide takes the nuclear approach of creating multiple operating system users for each identity, and using GitHub Desktop to manage said identities.
 ## Why GitHub Desktop?
 - it’s easy
