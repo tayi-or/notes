@@ -5,7 +5,7 @@ title: how fast is Haxe?
 ---
 Haxe for those who don't know is a programming language that doesn't commonly run as itself. It usually gets transpiled to other languages such as C++, JavaScript or C#.
 
-Of course, different targets will have different speeds. Here's the results from my MacBook Pro M1.
+Of course, different targets will have different speeds, so I wanted to test that, so [I ported davepl's prime sieve to Haxe](https://github.com/TayIorRobinson/HaxePrimeSieve). Here's the results from my MacBook Pro M1.
 
 | Target | Runs |
 |-|-|
@@ -21,4 +21,4 @@ Python|9
 Neko|5
 
 
-Compare these results to other programming languages on a 5950x (HxCPP got a score of 723) here: https://plummerssoftwarellc.github.io/PrimeView/report?id=davepl-1650451626.json
+Compare these results to other programming languages on a 5950x (HxCPP got a score of 723) [here](https://plummerssoftwarellc.github.io/PrimeView/report?id=davepl-1650451626.json)
