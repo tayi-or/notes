@@ -59,7 +59,7 @@ a:active {
   color: #CC2B4B;
 }
 
-.w {
+div.w {
 	max-width: 640px;
 	margin: 0 auto;
 	padding: 4rem 2rem
