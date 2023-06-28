@@ -17,6 +17,8 @@ However, the application has been bought out by "TPE.FYI LLC" in late 2022[^1] t
 
 > •WHEREAS, NightOwl app enables Users to share internet traffic by modifying their device's network settings to be used as a gateway for internet traffic. Additionally, the User's device acts as a gateway for NightOwl app's Clients, including companies that specialize in web and market research, SEO, brand protection, content delivery, cybersecurity, etc.
 
+We have contacted NightOwl regarding this, and haven't recieved a response yet.
+
 [^1]: https://www.kramser.xyz/
 [^2]: https://nightowlapp.co/imprint
 
@@ -83,4 +85,8 @@ The company was incorporated in September 2018 in Austin, Texas, and was dissolv
 [^9]: https://opencorporates.com/companies/us_tx/0803112154
 
 
+## Questions, concerns, comments?
 
+If you have any more information, I can be contacted at:
+ - [taylor@robins.one](mailto:taylor@robins.one)
+ - [t.me/tayiorrobinson](https://t.me/tayiorrobinson)
