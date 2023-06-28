@@ -19,8 +19,8 @@ However, the application has been bought out by "TPE.FYI LLC" in late 2022[^1] t
 
 We have contacted NightOwl regarding this, and haven't recieved a response yet.
 
-[^1]: https://www.kramser.xyz/
-[^2]: https://nightowlapp.co/imprint
+[^1]: <https://www.kramser.xyz/>
+[^2]: <https://nightowlapp.co/imprint>
 
 ## Removal:
 
@@ -69,11 +69,11 @@ Accept-Encoding: gzip
 
 The application also seems to use the [Pawns](https://pawns.app/) SDK[^3], which is an app offers to pay users $0.20 per GB of their internet shared[^5]. This service is operated by [IPRoyal](https://iproyal.com/)[^6], a proxy company that will sell you residential proxy connections for $1.75/GB, and advertises "100% ethically sourced IPs"[^7].
 
-[^3]: https://www.virustotal.com/gui/file/840fd039b2509fb50b328c0b5ada8c7300608e57bce8ce1bce822ee34b23fa52/behavior
-[^4]: https://nightowlapp.co/
-[^5]: https://pawns.app/
-[^6]: https://pawns.app/blog/iproyal-pawns-is-now-pawns-app/
-[^7]: https://iproyal.com/
+[^3]: <https://www.virustotal.com/gui/file/840fd039b2509fb50b328c0b5ada8c7300608e57bce8ce1bce822ee34b23fa52/behavior>
+[^4]: <https://nightowlapp.co/>
+[^5]: <https://pawns.app/>
+[^6]: <https://pawns.app/blog/iproyal-pawns-is-now-pawns-app/>
+[^7]: <https://iproyal.com/>
 
 ## But just who is "TPE.FYI LLC"?
 
@@ -81,8 +81,8 @@ TPE (or Keeping Tempo, or Tempo AI (not to be confused with the Tempo AI calenda
 
 The company was incorporated in September 2018 in Austin, Texas, and was dissolved in March 2023 by a "Jarod Stirling"[^9], who lives in Apartment 443 (hah, nice), The Muse at SoCo, 1007 South Congress Avenue, Austin, Texas, 78704.
 
-[^8]: https://www.f6s.com/keepingtempo
-[^9]: https://opencorporates.com/companies/us_tx/0803112154
+[^8]: <https://www.f6s.com/keepingtempo>
+[^9]: <https://opencorporates.com/companies/us_tx/0803112154>
 
 
 ## Questions, concerns, comments?
