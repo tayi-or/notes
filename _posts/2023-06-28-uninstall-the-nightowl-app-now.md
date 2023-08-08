@@ -8,6 +8,8 @@ tags:
 title: Uninstall the Nightowl App, now.
 ---
 
+<small>EDIT: It seems this made it to [HN](https://news.ycombinator.com/item?id=37052508). Is this my cue to [Soatokify](https://soatok.blog/2020/07/09/a-word-on-anti-furry-sentiments-in-the-tech-community/) this article.</small>
+
 ## Intro
 
 The NightOwl application has existed since 2018 and is used to automatically switch between light/dark modes on the operating system. It is an alternative to the built in macOS automatic mode which only switches when the user steps away from the computer.
