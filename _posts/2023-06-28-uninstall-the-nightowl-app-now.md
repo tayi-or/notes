@@ -8,7 +8,12 @@ tags:
 title: Uninstall the Nightowl App, now.
 ---
 
-<small>EDIT: It seems this made it to [HN](https://news.ycombinator.com/item?id=37052508). Is this my cue to [Soatokify](https://soatok.blog/2020/07/09/a-word-on-anti-furry-sentiments-in-the-tech-community/) this article?</small>
+### Edit
+It seems that Apple has now revoked the app's signing certificate, meaning that the application can no longer be launched.
+![image](https://github.com/TayIorRobinson/notes/assets/74316107/6dd3f310-04f8-44bd-9a84-d81c571f51b0)
+
+
+
 
 ## Intro
 
