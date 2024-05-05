@@ -20,6 +20,7 @@ The Debug Probe has a set of test points on the bottom and holes for a 3 pin con
 There's a unsoldered space for a 3 pin connector. From top to bottom, they're connected to:
 
 | Shape  | TP# |
+|--------|-----|
 | Square | 23  |
 | Round  | 24  |
 | Round  | 25  |
