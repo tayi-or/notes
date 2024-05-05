@@ -86,7 +86,7 @@ The application also seems to use the [Pawns](https://pawns.app/) SDK[^3], which
 
 TPE (or Keeping Tempo, or Tempo AI (not to be confused with the Tempo AI calendar or the Tempo AI gym)) is "in the process of building a pricing model based on various  analytics such as YouTube video views for an artist and geographical  popularity data that will allow venues to price their tickets based on  actual demand for an artist."[^8] Information is sparse, and little information past 2018 exists. The application, at least the time of writing, and the installations I've been made aware of, makes a lot of connections to https://stubbs.frontgatetickets.com/, a website that sells tickets to live music events for a restaurant in Austin, TX.
 
-The company was incorporated in September 2018 in Austin, Texas, and was dissolved in March 2023 by a "Jarod Stirling"[^9], who lives in Apartment 443 (hah, nice), The Muse at SoCo, 1007 South Congress Avenue, Austin, Texas, 78704.
+The company was incorporated in September 2018 in Austin, Texas, and was dissolved in March 2023 by a "Jarod Stirling"[^9].
 
 [^8]: <https://www.f6s.com/keepingtempo>
 [^9]: <https://opencorporates.com/companies/us_tx/0803112154>
